@@ -1,0 +1,18 @@
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\bin\Debug\net6.0-windows\2.SENEİLKDERS.exe
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\bin\Debug\net6.0-windows\2.SENEİLKDERS.deps.json
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\bin\Debug\net6.0-windows\2.SENEİLKDERS.runtimeconfig.json
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\bin\Debug\net6.0-windows\2.SENEİLKDERS.dll
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\bin\Debug\net6.0-windows\2.SENEİLKDERS.pdb
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.csproj.AssemblyReference.cache
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\_2.SENEİLKDERS.Form1.resources
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.csproj.GenerateResource.cache
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.AssemblyInfoInputs.cache
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.AssemblyInfo.cs
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.csproj.CoreCompileInputs.cache
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.dll
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\refint\2.SENEİLKDERS.dll
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.pdb
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\2.SENEİLKDERS.genruntimeconfig.cache
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\ref\2.SENEİLKDERS.dll
+C:\Users\utku\source\repos\2.SENEİLKDERS\2.SENEİLKDERS\obj\Debug\net6.0-windows\_2.SENEİLKDERS.hesaplama uyg.resources
